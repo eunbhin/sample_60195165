@@ -1,2 +1,1 @@
-print("hello world")
-print("good bye")
+print("60195165")
